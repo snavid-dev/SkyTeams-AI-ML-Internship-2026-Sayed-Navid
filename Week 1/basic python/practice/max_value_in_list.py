@@ -1,4 +1,3 @@
-# finding max value in a list
 numbers = [3, 5, 2, 8, 1]
 
 # first option to find the max value in the list

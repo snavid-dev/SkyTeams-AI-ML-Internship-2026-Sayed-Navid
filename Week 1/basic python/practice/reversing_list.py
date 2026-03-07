@@ -1,4 +1,3 @@
-# first practice reversing a list
 fruits = ["apple", "banana", "orange"]
 
 # first option to reverse the list
